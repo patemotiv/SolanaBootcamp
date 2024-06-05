@@ -60,7 +60,7 @@ Solana offers several advantages to end users compared to other blockchains, mak
    - **Scalability**: Solana achieves scalability without compromising on decentralization or security, handling high transaction volumes efficiently. This scalability supports a wide range of applications, from decentralized finance (DeFi) to gaming and NFTs.
 
 2. **Low Transaction Costs**:
-   - **Affordable Fees**: Solana's transaction fees are extremely low, often less than a fraction of a cent. This makes it cost-effective for users, particularly for microtransactions and high-frequency trading, where costs can add up on other platforms【28†source】.
+   - **Affordable Fees**: Solana's transaction fees are extremely low, often less than a fraction of a cent. This makes it cost-effective for users, particularly for microtransactions and high-frequency trading, where costs can add up on other platforms.
    - **Predictable Costs**: Low and predictable transaction fees help users plan their activities without worrying about fluctuating costs due to network congestion.
 
 3. **Energy Efficiency**:
