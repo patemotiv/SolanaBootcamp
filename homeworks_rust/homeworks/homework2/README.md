@@ -18,7 +18,10 @@ The address 1nc1nerator11111111111111111111111111111111 on the Solana blockchain
 
 - What is this transaction doing? https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf
 
-Tt involves burning tokens by sending them to the Solana incinerator address (1nc1nerator11111111111111111111111111111111). This effectively reduces the total supply of the token involved. 
+It involves burning tokens by sending them to the Solana incinerator address (1nc1nerator11111111111111111111111111111111). This effectively reduces the total supply of the token involved.
+
+More details about this transaction:
+https://www.reddit.com/r/solana/comments/qp31lh/about_the_fud_heres_what_really_happened_with/
 
 ---
 
