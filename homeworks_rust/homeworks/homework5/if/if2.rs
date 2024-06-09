@@ -5,13 +5,21 @@
 // Execute the command `rustlings hint if2` if you want a hint :)
 
 // I AM NOT DONE
+fn main() {
+    println!("fizz_if_foo(fizz) = {}", fizz_if_foo("fizz"));
+    println!("fizz_if_foo(fuzz) = {}", fizz_if_foo("fuzz"));
+    println!("fizz_if_foo(others) = {}", fizz_if_foo("others"));
+}
 
 pub fn fizz_if_foo(fizzish: &str) -> &str {
     if fizzish == "fizz" {
         "foo"
     } 
+    else if fizzish == "fuzz" {
+        "bar"
+    }
     else {
-        1
+        "baz"
     }
 }
 

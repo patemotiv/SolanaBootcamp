@@ -10,5 +10,5 @@ fn main() {
 }
 
 fn current_favorite_course() -> String {
-    "Solana"
+    String::from("Solana")
 }
