@@ -7,15 +7,15 @@
 pub fn fizz_buzz() {
     let n = 301;
     let mut fizz_buzz_count = 0;
-    for i in 0..n {
-        match i {
-            i if i % 3 == 0 && i % 5 == 0 => {
+    for i in 1..=n {
+        match (i % 3, i % 5) {
+            (0, 0) => {
                 println!("fizz buzz");
                 fizz_buzz_count += 1;
             }
-            i if i % 3 == 0 => println!("fizz"),
-            i if i % 5 == 0 => println!("buzz"),
-            _ => println!("{}", i),
+            (0, _) => println!("fizz"),
+            (_, 0) => println!("buzz"),
+            _ => {}
         }
     }
     println!("Total fizz buz: {:?}", fizz_buzz_count);
